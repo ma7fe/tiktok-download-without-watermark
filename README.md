@@ -1,6 +1,6 @@
 # tiktok-download-without-watermark
 
-Hello! 👋 This is fast private TikTok API to download music and videos without watermark.
+Hello! 👋 This is fast private API to download music and videos without watermark from TikTok.
 
 # Usage:
 
