@@ -4,11 +4,13 @@ Hello! 👋 This is fast private API to download music and videos without waterm
 
 You don't need to use X-Gorgon and X-Khronos 🥳
 
+**Video [DEMO](https://youtu.be/MdY4JxVzgxQ)**
+
 # Usage:
 
 Base URL: https://still-earth-46953.herokuapp.com/
 
-**Aveme ID** is required to work. It can be obtained using the [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) for example.
+**Aweme ID** is required to work. It can be obtained using the [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) for example.
 
 ## Get URL's of video without watermark 
 **URL:** {Base URL}/v1/video/{awemeId}
