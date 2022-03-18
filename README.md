@@ -6,7 +6,7 @@ Hello! 👋 This is fast private API for full video information, including links
 
 The API does not depend on any external services. Full information about the music, author and video, including links to the original videos without a watermark.
 
-The API is available by monthly subscription at [rapidapi.com](https://rapidapi.com/mov.inc.xor@gmail.com/api/tiktok-full-video-info/pricing).
+The API is available by monthly subscription at [rapidapi.com](https://rapidapi.com/movincxor-Fc_7BJDZhed/api/tiktok-full-video-info/).
 
 **Just get the URL of the video in any format and pass it to the API request!**
 
