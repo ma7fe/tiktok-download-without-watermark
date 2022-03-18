@@ -10,6 +10,8 @@ The API is available by monthly subscription at [rapidapi.com](https://rapidapi.
 
 **Just get the URL of the video in any format and pass it to the API request!**
 
+✅ Пользователям из РФ доступна покупка исходного кода запроса. Для связи напишите мне в телеграм.
+
 ---
 
 **Telegram: [@ma7fe](https://t.me/ma7fe)**
